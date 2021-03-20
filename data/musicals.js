@@ -13,7 +13,8 @@ const emojiMusicals = [
     emojiImgs: "👾🎮😜🎤",
     genres: ["sci-fi", "musical", "comedy", "drama"],
     type: "musical",
-    year: 2015
+    year: 2015,
+    itemLink: "https://www.google.com"
   },
   {
     title: "The Book of Mormon",
